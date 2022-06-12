@@ -38,6 +38,13 @@ estoque_roupas/
 
 
 ### Home
-![Home](https://imgur.com/edvhPug)
+![Imgur](https://imgur.com/edvhPug)
+
+### Demonstração do Funcionamento
+
+![Imgur](https://imgur.com/0OubWmw)
 
 
+## Author
+
+- **Isabelle Lourenço** ([Github](https://github.com/isabellelourenco))
