@@ -38,11 +38,15 @@ estoque_roupas/
 
 
 ### Home
-![Imgur](https://imgur.com/edvhPug)
+<p align="center">
+   <img width="470" src="images/Screenshot_1.png"
+</p>
 
 ### Demonstração do Funcionamento
 
-![Imgur](https://imgur.com/0OubWmw)
+<p align="center">
+   <img width="470" src="images/Estoque de Roupas.gif"
+</p>
 
 
 ## Author
