@@ -38,6 +38,6 @@ estoque_roupas/
 
 
 ### Home
-![Home]([URL da imagem](https://imgur.com/edvhPug))
+![Home](https://imgur.com/edvhPug)
 
 
