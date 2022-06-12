@@ -38,14 +38,14 @@ estoque_roupas/
 
 
 ### Home
-<p align="center">
-   <img width="470" src="images/Screenshot_1.png"
+<p align="start">
+   <img width="500" src="images/Screenshot_1.png"
 </p>
 
 ### Demonstração do Funcionamento
 
-<p align="center">
-   <img width="470" src="images/Estoque de Roupas.gif"
+<p align="start">
+   <img width="500" src="images/Estoque de Roupas.gif"
 </p>
 
 
